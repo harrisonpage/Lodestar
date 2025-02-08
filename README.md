@@ -6,7 +6,7 @@ Use Minecraft's "Boss Bar" to show player information:
 * Compass direction facing
 * Progress bar with remaining amount of day or night
 
-![screenshot.png](Screenshot)
+![Screenshot](screenshot.png)
 
 # Building
 
